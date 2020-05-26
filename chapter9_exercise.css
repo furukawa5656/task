@@ -1,0 +1,307 @@
+/** {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.position {
+	position: absolute;
+	right: 40px;
+	top: 100px;
+}
+
+
+i {
+	size: 32px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+
+main {
+	margin: 50px auto;
+	width: 960px;
+}
+
+
+.mainbox {
+	padding: 10px;
+	border: 1px solid gray;
+	float: left;
+	margin-right: 30px;
+	width: 280px;
+}
+
+
+.box {
+	width: 280px;
+	height: 200px;
+	background-image: url(img/flow01.png);
+	background-size: cover;
+	background-position: bottom;
+}
+
+
+.step1 {
+	width: 50px;
+	height: 20px;
+	background-color: orange;
+}
+
+
+
+
+
+
+.mainbox2 {
+	padding: 10px;
+	border: 1px solid gray;
+	margin-right: 30px;
+	float: left;
+	width: 280px;
+}
+
+
+.mainbox3 {
+	padding: 10px;
+	border: 1px solid gray;
+	float: left;
+	width: 280px;
+}
+
+
+
+.step2 {
+	width: 50px;
+	height: 20px;
+	background-color: orange;
+}
+
+.step3 {
+	width: 50px;
+	height: 20px;
+	background-color: orange;
+}
+
+
+
+
+
+h3 {
+
+}
+
+
+p {
+
+}
+
+.box2 {
+	width: 280px;
+	height: 200px;
+	background-image: url(img/flow02.png);
+	background-size: cover;
+	background-position: bottom;
+}
+
+
+
+.box3 {
+	width: 280px;
+	height: 200px;
+	background-image: url(img/flow03.png);
+	background-size: cover;
+	background-position: bottom;
+}
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+
+main {
+	margin: 50px auto;
+	width: 960px;
+}
+
+
+.mainbox {
+	padding: 10px;
+	border: 1px solid gray;
+	float: left;
+	margin-right: 30px;
+	width: 300px;
+	position: relative;
+}
+
+
+.box {
+	height: 200px;
+	background-image: url(img/flow01.png);
+	background-size: cover;
+	background-position: bottom;
+}
+
+
+.step1 {
+	width: 50px;
+	background-color: orange;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+h3 {
+	margin: 10px 0;
+}
+
+
+
+.mainbox2 {
+	padding: 10px;
+	border: 1px solid gray;
+	margin-right: 30px;
+	float: left;
+	width: 300px;
+	position: relative;
+}
+
+
+
+
+.box2 {
+	height: 200px;
+	background-image: url(img/flow02.png);
+	background-size: cover;
+	background-position: bottom;
+}
+
+
+
+.step2 {
+	width: 50px;
+	background-color: orange;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+
+.mainbox3 {
+	padding: 10px;
+	border: 1px solid gray;
+	float: left;
+	width: 300px;
+	position: relative;
+}
+
+
+
+
+
+.box3 {
+	height: 200px;
+	background-image: url(img/flow03.png);
+	background-size: cover;
+	background-position: bottom;
+}
+
+
+
+.step3 {
+	width: 50px;
+	background-color: orange;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+
+
+
+h3 {
+
+}
+
+
+p {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
